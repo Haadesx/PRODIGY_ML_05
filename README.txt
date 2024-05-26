@@ -26,3 +26,6 @@ the "meta" directory.
 
 For any questions contact bossard@vision.ee.ethz.ch
 
+
+Dataset:  https://www.kaggle.com/datasets/dansbecker/food-101
+
